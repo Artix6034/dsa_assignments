@@ -1,0 +1,4 @@
+﻿  dsa.cpp
+C:\Users\erlen\source\repos\dsa\dsa\dsa.cpp(31,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\erlen\source\repos\dsa\dsa\dsa.cpp(152,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  dsa.vcxproj -> C:\Users\erlen\source\repos\dsa\x64\Debug\dsa.exe
